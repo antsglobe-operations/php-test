@@ -1,6 +1,6 @@
 <?php
 
-// echo "Hello Heroku! Afshar here..."
+echo "Hello Heroku! Afshar here..."
 
 $servername = "localhost";
 $username = "username";
